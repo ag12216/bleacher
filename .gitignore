@@ -21,4 +21,4 @@ dist/
 build/
 
 # Backup files
-*~.nib
+*~.nib.DS_Store
