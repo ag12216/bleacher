@@ -6,5 +6,6 @@ target 'Bleacher' do
   use_frameworks!
 
   # Pods for Bleacher
-
+ pod 'Motion', '~> 3.1.0'
+ pod 'lottie-ios'
 end

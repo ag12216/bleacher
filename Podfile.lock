@@ -1,3 +1,22 @@
-PODFILE CHECKSUM: 6babcc47a8b5f2d58caf93b2d25a18571b3a460f
+PODS:
+  - lottie-ios (3.1.5)
+  - Motion (3.1.3):
+    - Motion/Core (= 3.1.3)
+  - Motion/Core (3.1.3)
+
+DEPENDENCIES:
+  - lottie-ios
+  - Motion (~> 3.1.0)
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - Motion
+
+SPEC CHECKSUMS:
+  lottie-ios: 32bf84389337d86fbc8b12266e88452e0abf1dee
+  Motion: cf1e060e489f6661126374d5c60dbd2ed991605c
+
+PODFILE CHECKSUM: bbad22f3322b8c1f2c7734ef974cd9d5a55cd7f8
 
 COCOAPODS: 1.8.4

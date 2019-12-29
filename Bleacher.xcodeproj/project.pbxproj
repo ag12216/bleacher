@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		514DB91723B86DFC0051995A /* img_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 514DB90323B86DFC0051995A /* img_1.png */; };
+		514DB91823B86DFC0051995A /* img_0.png in Resources */ = {isa = PBXBuildFile; fileRef = 514DB90423B86DFC0051995A /* img_0.png */; };
+		514DB91923B86DFC0051995A /* Page1toPage2.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB90523B86DFC0051995A /* Page1toPage2.json */; };
+		514DB91A23B86DFC0051995A /* img_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 514DB90623B86DFC0051995A /* img_2.png */; };
+		514DB91B23B86DFC0051995A /* img_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 514DB90723B86DFC0051995A /* img_3.png */; };
+		514DB91C23B86DFC0051995A /* Page4toPage3.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB90823B86DFC0051995A /* Page4toPage3.json */; };
+		514DB91D23B86DFC0051995A /* Page4toPage2.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB90923B86DFC0051995A /* Page4toPage2.json */; };
+		514DB91E23B86DFC0051995A /* Page3toPage1.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB90A23B86DFC0051995A /* Page3toPage1.json */; };
+		514DB91F23B86DFC0051995A /* Page1toPage3.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB90B23B86DFC0051995A /* Page1toPage3.json */; };
+		514DB92023B86DFC0051995A /* img_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 514DB90C23B86DFC0051995A /* img_4.png */; };
+		514DB92123B86DFC0051995A /* Page2toPage4.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB90D23B86DFC0051995A /* Page2toPage4.json */; };
+		514DB92223B86DFC0051995A /* img_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 514DB90E23B86DFC0051995A /* img_5.png */; };
+		514DB92323B86DFC0051995A /* Page1toPage4.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB90F23B86DFC0051995A /* Page1toPage4.json */; };
+		514DB92423B86DFC0051995A /* SplashtoPage1.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB91023B86DFC0051995A /* SplashtoPage1.json */; };
+		514DB92523B86DFC0051995A /* Page2toPage3.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB91123B86DFC0051995A /* Page2toPage3.json */; };
+		514DB92623B86DFC0051995A /* servishero_loading.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB91223B86DFC0051995A /* servishero_loading.json */; };
+		514DB92723B86DFC0051995A /* Page3toPage4.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB91323B86DFC0051995A /* Page3toPage4.json */; };
+		514DB92823B86DFC0051995A /* Page2toPage1.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB91423B86DFC0051995A /* Page2toPage1.json */; };
+		514DB92923B86DFC0051995A /* Page4toPage1.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB91523B86DFC0051995A /* Page4toPage1.json */; };
+		514DB92A23B86DFC0051995A /* Page3toPage2.json in Resources */ = {isa = PBXBuildFile; fileRef = 514DB91623B86DFC0051995A /* Page3toPage2.json */; };
 		87118C9923AB8CB100F2059B /* UITextfield.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87118C9823AB8CB100F2059B /* UITextfield.swift */; };
 		873A8D5623AB51590036ABB7 /* FontTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 873A8D5523AB51590036ABB7 /* FontTypes.swift */; };
 		875D098E23B1E318000A7A4E /* LoginModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875D098D23B1E318000A7A4E /* LoginModel.swift */; };
@@ -49,6 +69,26 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		514DB90323B86DFC0051995A /* img_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_1.png; sourceTree = "<group>"; };
+		514DB90423B86DFC0051995A /* img_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_0.png; sourceTree = "<group>"; };
+		514DB90523B86DFC0051995A /* Page1toPage2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Page1toPage2.json; sourceTree = "<group>"; };
+		514DB90623B86DFC0051995A /* img_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_2.png; sourceTree = "<group>"; };
+		514DB90723B86DFC0051995A /* img_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_3.png; sourceTree = "<group>"; };
+		514DB90823B86DFC0051995A /* Page4toPage3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Page4toPage3.json; sourceTree = "<group>"; };
+		514DB90923B86DFC0051995A /* Page4toPage2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Page4toPage2.json; sourceTree = "<group>"; };
+		514DB90A23B86DFC0051995A /* Page3toPage1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Page3toPage1.json; sourceTree = "<group>"; };
+		514DB90B23B86DFC0051995A /* Page1toPage3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Page1toPage3.json; sourceTree = "<group>"; };
+		514DB90C23B86DFC0051995A /* img_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_4.png; sourceTree = "<group>"; };
+		514DB90D23B86DFC0051995A /* Page2toPage4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Page2toPage4.json; sourceTree = "<group>"; };
+		514DB90E23B86DFC0051995A /* img_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_5.png; sourceTree = "<group>"; };
+		514DB90F23B86DFC0051995A /* Page1toPage4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Page1toPage4.json; sourceTree = "<group>"; };
+		514DB91023B86DFC0051995A /* SplashtoPage1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SplashtoPage1.json; sourceTree = "<group>"; };
+		514DB91123B86DFC0051995A /* Page2toPage3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Page2toPage3.json; sourceTree = "<group>"; };
+		514DB91223B86DFC0051995A /* servishero_loading.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = servishero_loading.json; sourceTree = "<group>"; };
+		514DB91323B86DFC0051995A /* Page3toPage4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Page3toPage4.json; sourceTree = "<group>"; };
+		514DB91423B86DFC0051995A /* Page2toPage1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Page2toPage1.json; sourceTree = "<group>"; };
+		514DB91523B86DFC0051995A /* Page4toPage1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Page4toPage1.json; sourceTree = "<group>"; };
+		514DB91623B86DFC0051995A /* Page3toPage2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Page3toPage2.json; sourceTree = "<group>"; };
 		87118C9823AB8CB100F2059B /* UITextfield.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITextfield.swift; sourceTree = "<group>"; };
 		873A8D4D23AB4E310036ABB7 /* sf-ui-display-semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sf-ui-display-semibold.otf"; sourceTree = "<group>"; };
 		873A8D4E23AB4E310036ABB7 /* sf-ui-display-thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sf-ui-display-thin.otf"; sourceTree = "<group>"; };
@@ -115,6 +155,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		514DB90223B86DFC0051995A /* Animations Files */ = {
+			isa = PBXGroup;
+			children = (
+				514DB90323B86DFC0051995A /* img_1.png */,
+				514DB90423B86DFC0051995A /* img_0.png */,
+				514DB90523B86DFC0051995A /* Page1toPage2.json */,
+				514DB90623B86DFC0051995A /* img_2.png */,
+				514DB90723B86DFC0051995A /* img_3.png */,
+				514DB90823B86DFC0051995A /* Page4toPage3.json */,
+				514DB90923B86DFC0051995A /* Page4toPage2.json */,
+				514DB90A23B86DFC0051995A /* Page3toPage1.json */,
+				514DB90B23B86DFC0051995A /* Page1toPage3.json */,
+				514DB90C23B86DFC0051995A /* img_4.png */,
+				514DB90D23B86DFC0051995A /* Page2toPage4.json */,
+				514DB90E23B86DFC0051995A /* img_5.png */,
+				514DB90F23B86DFC0051995A /* Page1toPage4.json */,
+				514DB91023B86DFC0051995A /* SplashtoPage1.json */,
+				514DB91123B86DFC0051995A /* Page2toPage3.json */,
+				514DB91223B86DFC0051995A /* servishero_loading.json */,
+				514DB91323B86DFC0051995A /* Page3toPage4.json */,
+				514DB91423B86DFC0051995A /* Page2toPage1.json */,
+				514DB91523B86DFC0051995A /* Page4toPage1.json */,
+				514DB91623B86DFC0051995A /* Page3toPage2.json */,
+			);
+			path = "Animations Files";
+			sourceTree = "<group>";
+		};
 		7C2D1FF81EA5F844AD22D1E4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -160,6 +227,7 @@
 		876B506023AA000100CC74C8 /* Bleacher */ = {
 			isa = PBXGroup;
 			children = (
+				514DB90223B86DFC0051995A /* Animations Files */,
 				878C70F823B0F32B00578247 /* Views */,
 				876B507E23AA019900CC74C8 /* Resources */,
 				876B507D23AA019100CC74C8 /* Utilities */,
@@ -274,7 +342,6 @@
 				97A739D96A5368D4DE041F44 /* Pods-Bleacher.debug.xcconfig */,
 				BEB0D86F45AB3A857DBBEA2A /* Pods-Bleacher.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -289,6 +356,7 @@
 				876B505A23AA000100CC74C8 /* Sources */,
 				876B505B23AA000100CC74C8 /* Frameworks */,
 				876B505C23AA000100CC74C8 /* Resources */,
+				639BFA40A26E7684ACFE16DB /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -337,11 +405,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				514DB91F23B86DFC0051995A /* Page1toPage3.json in Resources */,
 				876B507123AA000800CC74C8 /* LaunchScreen.storyboard in Resources */,
+				514DB92023B86DFC0051995A /* img_4.png in Resources */,
+				514DB92A23B86DFC0051995A /* Page3toPage2.json in Resources */,
+				514DB92223B86DFC0051995A /* img_5.png in Resources */,
+				514DB91923B86DFC0051995A /* Page1toPage2.json in Resources */,
 				878C70FC23B0F89F00578247 /* StatisticsCollectionViewCell.xib in Resources */,
 				876B506E23AA000800CC74C8 /* Assets.xcassets in Resources */,
+				514DB92623B86DFC0051995A /* servishero_loading.json in Resources */,
+				514DB92323B86DFC0051995A /* Page1toPage4.json in Resources */,
+				514DB91823B86DFC0051995A /* img_0.png in Resources */,
 				876B506923AA000100CC74C8 /* Main.storyboard in Resources */,
+				514DB92923B86DFC0051995A /* Page4toPage1.json in Resources */,
+				514DB91E23B86DFC0051995A /* Page3toPage1.json in Resources */,
+				514DB91C23B86DFC0051995A /* Page4toPage3.json in Resources */,
 				876B50AC23AA48E000CC74C8 /* BLEACHERLOGO_ICON.png in Resources */,
+				514DB91D23B86DFC0051995A /* Page4toPage2.json in Resources */,
+				514DB92123B86DFC0051995A /* Page2toPage4.json in Resources */,
+				514DB92523B86DFC0051995A /* Page2toPage3.json in Resources */,
+				514DB92823B86DFC0051995A /* Page2toPage1.json in Resources */,
+				514DB91723B86DFC0051995A /* img_1.png in Resources */,
+				514DB92423B86DFC0051995A /* SplashtoPage1.json in Resources */,
+				514DB92723B86DFC0051995A /* Page3toPage4.json in Resources */,
+				514DB91A23B86DFC0051995A /* img_2.png in Resources */,
+				514DB91B23B86DFC0051995A /* img_3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -368,6 +456,23 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		639BFA40A26E7684ACFE16DB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Bleacher/Pods-Bleacher-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Bleacher/Pods-Bleacher-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Bleacher/Pods-Bleacher-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */

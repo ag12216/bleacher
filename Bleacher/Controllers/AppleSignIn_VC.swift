@@ -7,6 +7,8 @@
 //
 
 import UIKit
+import Motion
+import Lottie
 
 class AppleSignIn_VC: UIViewController {
 
@@ -68,13 +70,16 @@ class AppleSignIn_VC: UIViewController {
     
     
     func animations(){
-        
+
         Animations.sharedInstance.animateWithScale(time: 1.5, delay: 0.0, animationOption: .curveEaseIn, 0.8, scaleY: 0.8, backgroundRotateImageView)
         
         Animations.sharedInstance.moveToViewwithAnimation(logoImageView, _duration: 1.5, _scaleX: 0.5, _scaleY: 0.5, _translateX: 0.0, _translateY: -450.0)
        
         Animations.sharedInstance.animateToHideView(toView: backgroundAlphaView, _duration: 1.5)
    
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(5)) {
+            self.backgroundRotateImageView.animate(.background(color:.red),.duration(1.5),.rotate(x: 0, y: 180, z: 0))
+        }
     }
 
     
